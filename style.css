@@ -81,4 +81,57 @@ body{
     padding: 10px 10px;
     margin: 5px 50px;
 }
+.coding-pic img{
+    width: 300px;
+    padding-top: 50px;
+    margin-left: 55px;
+}
+.sec3{
+        padding-right: 155px;
+        padding-top: 20px;
+        padding-left: 50px;
+        text-align: justify;
 
+}
+.know{
+    text-decoration: none;
+    background-color: rgb(255, 81, 0);
+    border: 2px solid rgb(255, 81, 0);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.image-text{
+    display: flex;
+    padding-left: 20px;
+}
+span{
+    color: orangered;
+}
+footer{
+    text-align: center;
+    background-color: gray;
+    padding: 15px 15px;
+}
+.email-send{
+    text-align: center;
+    
+}
+.button-design{
+    padding: 40px 10px;
+    background-color: rgba(255, 68, 0, 0.326);
+    border-radius: 10px;
+    width: 30%;
+    margin-left: 34%;
+}
+#button-submit{
+    background-color: orangered;
+    text-decoration: none;
+    border: 2px solid orangered;
+    border-radius: 10px;
+}
+#email{
+    border: 2px solid gainsboro;
+    padding: 5px 5px;
+    background-color: gainsboro;
+}
